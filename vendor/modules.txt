@@ -1,0 +1,23 @@
+# github.com/ajstarks/svgo v0.0.0-20180226025133-644b8db467af
+## explicit
+github.com/ajstarks/svgo
+# github.com/taironas/route v0.0.0-20150312082541-b919c49c73f1
+## explicit
+github.com/taironas/route
+# github.com/taironas/tinygraphs v0.0.0-20180413222208-b49c570c481e
+## explicit
+github.com/taironas/tinygraphs/cache
+github.com/taironas/tinygraphs/colors
+github.com/taironas/tinygraphs/controllers/checkerboard
+github.com/taironas/tinygraphs/controllers/isogrids
+github.com/taironas/tinygraphs/controllers/spaceinvaders
+github.com/taironas/tinygraphs/controllers/squares
+github.com/taironas/tinygraphs/controllers/themes
+github.com/taironas/tinygraphs/draw
+github.com/taironas/tinygraphs/draw/isogrids
+github.com/taironas/tinygraphs/draw/spaceinvaders
+github.com/taironas/tinygraphs/draw/squares
+github.com/taironas/tinygraphs/extract
+github.com/taironas/tinygraphs/format
+github.com/taironas/tinygraphs/testing
+github.com/taironas/tinygraphs/write
